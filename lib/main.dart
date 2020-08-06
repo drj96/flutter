@@ -46,7 +46,6 @@ class MapScreen extends StatelessWidget {
   }
 }
 
-
 class AppPage extends StatefulWidget {
   @override
   _AppPageState createState() => _AppPageState();
